@@ -26,6 +26,11 @@
               >
             </li>
             <li class="l-header__nav__list__item">
+              <NuxtLink to="/test250402002/" @click.native="Drawer = false"
+                >大山のブログ</NuxtLink
+              >
+            </li>
+            <li class="l-header__nav__list__item">
               <NuxtLink to="/service/" @click.native="Drawer = false"
                 >事業内容</NuxtLink
               >
