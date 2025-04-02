@@ -13,7 +13,7 @@
 const config = useRuntimeConfig();
 
 const { data: response } = await useFetch(
-  `${config.public.kurocoApiDomain}/rcms-api/1/test20250402/14`,
+  `${config.public.kurocoApiDomain}/rcms-api/1/test20250402/details/test20250402002`,
   {
     server: false,
   }
