@@ -51,8 +51,8 @@
               >
             </li>
             <li class="l-header__nav__list__item">
-              <NuxtLink to="/contact/" @click.native="Drawer = false"
-                >お問い合わせ</NuxtLink
+              <a href="https://staging.secure.e-state.ne.jp/test_ftp/suzzu49/" target="_blank"
+                >お問い合わせ</a
               >
             </li>
           </ul>
