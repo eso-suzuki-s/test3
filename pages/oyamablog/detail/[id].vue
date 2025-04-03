@@ -1,7 +1,7 @@
 <template>
   <div>
     <UiPageHeader
-      :path="[{ label: 'ニュース', to: '/oyamablog' }]"
+      :path="[{ label: '真大山ブログ', to: '/oyamablog' }]"
       :subject="oyamablog.details.group_nm"
       subheading="News Release"
     />
@@ -26,7 +26,7 @@
           <hr />
           <div class="l-container--contents u-pt-30 u-text-align-center">
             <NuxtLink :to="'/oyamablog/'" class="c-button">
-              ニュースリリース一覧へ戻る
+              一覧へ戻る
             </NuxtLink>
           </div>
         </article>

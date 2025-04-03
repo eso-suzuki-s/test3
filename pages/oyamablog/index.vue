@@ -1,6 +1,6 @@
 <template>
   <div class="l-container">
-    <UiPageHeader subject="ニュース" subheading="News Release" />
+    <UiPageHeader subject="真大山ブログ" subheading="News Release" />
     <section>
       <div class="l-container--col-2 l-container--contents">
         <div class="l-container--col-2__main">
